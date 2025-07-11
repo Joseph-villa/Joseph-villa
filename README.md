@@ -1,5 +1,7 @@
 ## Hi there 👋
-Yo soy Joseph.villa (not real name) soy estudiante de informatica de la universidad ubicada en el planeta Tierra.
+Yo soy Joseph.villa (not real name) 
+soy estudiante de informatica de la universidad ubicada en el planeta Tierra.
+
 .⚡ Fun fact: sabian que en un minuto se pueden contar hasta 60 segundos (ni mas ni menos) 
 <!--
 **Joseph-villa/Joseph-villa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
